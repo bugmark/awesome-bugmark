@@ -145,4 +145,4 @@ Various resources, such as books, websites and articles, for improving your Bugm
 * [Learning Bugmark](http://learningbugmark.joekain.com/) - A blog about a Professional Software Engineer learning Bugmark.
 
 # Contributing
-Please see [CONTRIBUTING](https://github.com/h4cc/awesome-bugmark/blob/master/.github/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/bugmark/awesome-bugmark/blob/master/.github/CONTRIBUTING.md) for details.
