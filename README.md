@@ -21,7 +21,7 @@ improving your Bugmark skills and knowledge.
 
 * [@getbugmark](http://twitter.com/getbugmark) - Bugmark Twitter
 * [bugmark_dev](https://groups.google.com/d/forum/bugmark_dev) - Mail list for Bugmark developers
-* [Bugmark Slack](https://bugmark-slackin.herokuapp.com/) - Bugmark Slack 
+* [Bugmark Slack](https://bugmark.slack.com/) - Bugmark Slack 
 
 ## Reading
 *Bugmark-releated reading materials.*
