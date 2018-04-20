@@ -26,10 +26,10 @@ improving your Bugmark skills and knowledge.
 ## Reading
 *Bugmark-releated reading materials.*
 
-* [Commodity Markets](https://en.wikipedia.org/wiki/Commodity_market) - Bugmark trades information and fixes, inspired by market design and business practices used in commodity trading
+* [Commodity Markets](https://en.wikipedia.org/wiki/Commodity_market) - Bugmark trades information and fixes, inspired by practices used in commodity trading
 * [Two-Sided Markets](https://en.wikipedia.org/wiki/Two-sided_market)- Bugmark is focused on two-sided markets for software-development issues
 * [Cathederal and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - an essay that examines the struggle between top-down and bottom-up design
-* [Theory of the Firm](https://en.wikipedia.org/wiki/Theory_of_the_firm) - economic theories that explain and predict the nature of the firm, including its existence, behavior, structure, and relationship to the market
+* [Theory of the Firm](https://en.wikipedia.org/wiki/Theory_of_the_firm) - theories that predict the nature of the firm, its structure and relationship to the market
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/bugmark/awesome-bugmark/blob/master/.github/CONTRIBUTING.md) for details.
