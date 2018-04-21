@@ -28,7 +28,7 @@ improving your Bugmark skills and knowledge.
 
 * [Commodity Markets](https://en.wikipedia.org/wiki/Commodity_market) - Bugmark trades information and fixes, inspired by practices used in commodity trading
 * [Two-Sided Markets](https://en.wikipedia.org/wiki/Two-sided_market)- Bugmark is focused on two-sided markets for software-development issues
-* [Cathederal and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - an essay that examines the struggle between top-down and bottom-up design
+* [Coase's Penguin, or, Linux and The Nature of the Firm](https://www.yalelawjournal.org/article/coases-penguin-or-linux-and-the-nature-of-the-firm) by Yochai Benkler. Covers markets, firms, and peer production as methods for organizing work.
 * [Theory of the Firm](https://en.wikipedia.org/wiki/Theory_of_the_firm) - theories that predict the nature of the firm, its structure and relationship to the market
 
 # Contributing
