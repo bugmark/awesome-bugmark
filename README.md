@@ -35,8 +35,7 @@ improving your Bugmark skills and knowledge.
 # Guides
 Guides and tactics for promoting and marketing a trading community.
 
-* [19 Tactics to Grow a Marketplace](https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem)
-- best practices for promoting and growing a trading community
+* [19 Tactics to Grow a Marketplace](https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem) - best practices for promoting and growing a trading community
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/bugmark/awesome-bugmark/blob/master/.github/CONTRIBUTING.md) for details.
