@@ -30,6 +30,7 @@ improving your Bugmark skills and knowledge.
 * [Two-Sided Markets](https://en.wikipedia.org/wiki/Two-sided_market)- Bugmark is focused on two-sided markets for software-development issues
 * [Theory of the Firm](https://en.wikipedia.org/wiki/Theory_of_the_firm) - theories that predict the nature of the firm, its structure and relationship to the market
 * [Linux and The Nature of the Firm](https://www.yalelawjournal.org/article/coases-penguin-or-linux-and-the-nature-of-the-firm) - covers markets, firms, and peer production as methods for organizing work
+* [Why do people pay for open source?](https://blog.tidelift.com/why-do-people-pay-for-open-source) - They don't! They pay for future quality maintenance. Bugmark provides mechanisms for this.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/bugmark/awesome-bugmark/blob/master/.github/CONTRIBUTING.md) for details.
