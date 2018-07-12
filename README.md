@@ -11,6 +11,7 @@ the according issue or create a new one.
     - [Community](#community)
     - [Reading](#reading)
 - [Contributing](#contributing)
+- [Guides](#guides)
 
 # Resources
 Various resources, such as presentations, websites and articles, for
@@ -30,6 +31,12 @@ improving your Bugmark skills and knowledge.
 * [Two-Sided Markets](https://en.wikipedia.org/wiki/Two-sided_market)- Bugmark is focused on two-sided markets for software-development issues
 * [Theory of the Firm](https://en.wikipedia.org/wiki/Theory_of_the_firm) - theories that predict the nature of the firm, its structure and relationship to the market
 * [Linux and The Nature of the Firm](https://www.yalelawjournal.org/article/coases-penguin-or-linux-and-the-nature-of-the-firm) - covers markets, firms, and peer production as methods for organizing work
+
+# Guides
+Guides and tactics for promoting and marketing a trading community.
+
+* [19 Tactics to Grow a Marketplace](https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem)
+- best practices for promoting and growing a trading community
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/bugmark/awesome-bugmark/blob/master/.github/CONTRIBUTING.md) for details.
