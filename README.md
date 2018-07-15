@@ -36,6 +36,7 @@ improving your Bugmark skills and knowledge.
 
 * [Corporate Prediction Markets](http://www.restud.com/wp-content/uploads/2015/03/MS14671manuscript.pdf) - Reports from Google, Ford and 'Company X'.
 * [Why pay for Open Source?](https://blog.tidelift.com/why-do-people-pay-for-open-source) - People pay for future maintenance. Bugmark provides mechanisms for this.
+* [Coordination Across Projects](http://mkwi2018.leuphana.de/wp-content/uploads/MKWI_4.pdf) - A look at mechanisms for coordination across open-source projects.
 
 *Articles and papers from the Bugmark community.*
 
