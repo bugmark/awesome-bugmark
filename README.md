@@ -37,6 +37,11 @@ improving your Bugmark skills and knowledge.
 * [Corporate Prediction Markets](http://www.restud.com/wp-content/uploads/2015/03/MS14671manuscript.pdf) - Reports from Google, Ford and 'Company X'.
 * [Why pay for Open Source?](https://blog.tidelift.com/why-do-people-pay-for-open-source) - People pay for future maintenance. Bugmark provides mechanisms for this.
 
+*Articles and papers from the Bugmark community.*
+
+* [A Trading Market to Incentivize Secure Software](https://www.eecs.harvard.edu/~malvika/MRao_WEIS2018.pdf) - July 2018
+* [A Trading Market for Prices in Peer Production](https://www.eecs.harvard.edu/~malvika/MRao_CI2018.pdf) - June 2018
+
 # Guides
 Guides and tactics for promoting and marketing a trading community.
 
