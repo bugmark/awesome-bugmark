@@ -32,7 +32,7 @@ improving your Bugmark skills and knowledge.
 * [Theory of the Firm](https://en.wikipedia.org/wiki/Theory_of_the_firm) - theories that predict the nature of the firm, its structure and relationship to the market
 * [Linux and The Nature of the Firm](https://www.yalelawjournal.org/article/coases-penguin-or-linux-and-the-nature-of-the-firm) - covers markets, firms, and peer production as methods for organizing work
 
-* Secondary references and academic papers.*
+*Secondary references and academic papers.*
 
 * [Corporate Prediction Markets](http://www.restud.com/wp-content/uploads/2015/03/MS14671manuscript.pdf) - Reports from Google, Ford and 'Company X'.
 * [Why pay for Open Source?](https://blog.tidelift.com/why-do-people-pay-for-open-source) - People pay for future maintenance. Bugmark provides mechanisms for this.
