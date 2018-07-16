@@ -7,11 +7,11 @@ videos, software - for Bugmark Developers!
 If you think a resource should be added, please add a :+1: (`:+1:`) at
 the according issue or create a new one.
 
-- [Core Technology](#core)
-- [Webapp Framework](#webapp)
-- [Developer Tooling](#developer)
+- [Core Technology](#core-technology-stack)
+- [Webapp Framework](#webapp-framework)
+- [Developer Tooling](#developer-tooling)
 - [Devops](#devops)
-- [Utility Software](#utility)
+- [Utility Software](#utility-software)
 
 # Core Technology Stack
 
