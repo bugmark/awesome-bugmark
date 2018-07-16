@@ -7,11 +7,11 @@ videos, software - for Bugmark Developers!
 If you think a resource should be added, please add a :+1: (`:+1:`) at
 the according issue or create a new one.
 
-- [Resources](#resources)
-    - [Community](#community)
-    - [Reading](#reading)
-- [Contributing](#contributing)
-- [Guides](#guides)
+- [Core Technology](#core)
+- [Webapp Framework](#webapp)
+- [Developer Tooling](#developer)
+- [Devops](#devops)
+- [Utility Software](#utility)
 
 # Core Technology Stack
 
@@ -33,11 +33,17 @@ the according issue or create a new one.
 
 We use a variety of editors: Emacs, Vim, Neovim, Oni, Atom, VScode.  
 
-* [LSP](https://langserver.org/) - Code completion, go-to-definition, inline documentation.
-* [Linode](https://www.linode.com/) - VM Provider
+* [Tmux](https://github.com/tmux/tmux) - Terminal Multiplexer
 * [MobaXTerm](https://mobaxterm.mobatek.net/) - X, ssh and sftp for Windows
 * [FileZilla](https://filezilla-project.org/) - sftp and more for Mac (and other platforms)
-* [Tmux](https://github.com/tmux/tmux) - Terminal Multiplexer
+* [LSP](https://langserver.org/) - Editor-agnostic code completion, go-to-definition, inline documentation.
+* [Docker Sync](http://docker-sync.io/) - Code-sync tool for developers
+
+# Devops
+
+* [Linode](https://www.linode.com/) - VM Provider
+* [Consul](https://www.consul.io/) - Distributed K/V for service configuration (amongst other thing...)
+* [Vault](https://www.vaultproject.io/) - Secure credentials management
 
 # Utility Software
 
