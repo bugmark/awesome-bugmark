@@ -50,6 +50,7 @@ We use a variety of editors: Emacs, Vim, Neovim, Oni, Atom, VScode.
 * [Open Broadcaster](https://obsproject.com/) - Video recording: screencasts and hangouts.
 * [Vagrant](https://www.vagrantup.com) - VM CLI
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization Engine
+* [Ansible](https://www.ansible.com/) - System provisioning and configuration
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/bugmark/awesome-bugmark/blob/master/.github/CONTRIBUTING.md) for details.
