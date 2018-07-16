@@ -12,6 +12,7 @@ the according issue or create a new one.
     - [Reading](#reading)
 - [Contributing](#contributing)
 - [Guides](#guides)
+- [Bugmark Developers](#bugmark-developers)
 
 # Resources
 Various resources, such as presentations, websites and articles, for
@@ -47,6 +48,10 @@ improving your Bugmark skills and knowledge.
 Guides and tactics for promoting and marketing a trading community.
 
 * [19 Tactics to Grow a Marketplace](https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem) - best practices from an experienced investor
+
+# Bugmark Developers
+
+See [Awesome for Bugmark Developers](/developers.md) which contains developer-related resources.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/bugmark/awesome-bugmark/blob/master/.github/CONTRIBUTING.md) for details.
