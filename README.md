@@ -42,6 +42,7 @@ improving your Bugmark skills and knowledge.
 *Articles and papers from the Bugmark community.*
 
 * [A Trading Market to Incentivize Secure Software](https://www.eecs.harvard.edu/~malvika/MRao_WEIS2018.pdf) - July 2018
+* [Trading Market to Incentivize Secure Software (slides)](slides/WEIS2018Slides.pdf) - July 2018
 * [A Trading Market for Prices in Peer Production](https://www.eecs.harvard.edu/~malvika/MRao_CI2018.pdf) - June 2018
 
 # Guides
