@@ -51,6 +51,7 @@ We use a variety of editors: Emacs, Vim, Neovim, Oni, Atom, VScode.
 * [Vagrant](https://www.vagrantup.com) - VM CLI
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization Engine
 * [Ansible](https://www.ansible.com/) - System provisioning and configuration
+* [Seashells](https://seashells.io/) - Share cli output via web in real-time
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/bugmark/awesome-bugmark/blob/master/.github/CONTRIBUTING.md) for details.
